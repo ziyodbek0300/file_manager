@@ -1,0 +1,15 @@
+{
+  "name": "filemanager",
+  "version": "1.0.0",
+  "description": "Example description",
+  "main": "src/index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "keywords": [
+    "node"
+  ],
+  "author": "-",
+  "license": "-"
+}
